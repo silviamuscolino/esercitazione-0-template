@@ -15,6 +15,11 @@ int main(int argc, char *argv[])
     * https://en.cppreference.com/c/string/byte/atoi e 
     * https://en.cppreference.com/c/string/byte/atof */
 
+    int numero_intero= atoi(argv[2]);
+    double numero_decimale=atof(argv[3]);
+
+    printf("Testo: %s %d %f\n", testo, numero_intero, numero_decimale);
+
     /* Evita un warning finche' la variabiletesto non viene usato nella stampa. */
     (void)testo;
 
