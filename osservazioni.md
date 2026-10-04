@@ -6,7 +6,7 @@ Componenti (nome, cognome e username GitHub di entrambi): Silvia Muscolino, user
 
 URL del repository condiviso:
 
-Chi ha usato la tastiera nello step 1 e nello step 2:
+Chi ha usato la tastiera nello step 1 e nello step 2: nello step 1 Silvia Muscolino, nello step 2 Lavinia Palumbo
 
 Compilate insieme le osservazioni e discutete le risposte: entrambi dovete
 saper spiegare le prove svolte.
@@ -53,7 +53,7 @@ Come un controllo automatico può riconoscere un errore: verificando il valore r
 
 ## Step 2 — Parametri e calcolo fisico
 
-Quando serve ricompilare e quando basta cambiare gli argomenti: serve ricompilare quando si applica una modifica al codice sorgente in C (eco.c). basta cambiare gli argomenti quando il codice sotgente rimane uguale e si vuole variare solo i dati di input.
+Quando serve ricompilare e quando basta cambiare gli argomenti: serve ricompilare quando si applica una modifica al codice sorgente in C (eco.c). basta cambiare gli argomenti quando il codice sorgente rimane uguale e si vuole variare solo i dati di input.
 ## Step 2 — Git
 
 Come riconosco nella cronologia i commit dei due step: eseguendo git log-- onelie, riconosco i commit nella cronologia dal messaggio inserito durate il commit e dai codici identificativi (hash).
