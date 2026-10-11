@@ -4,7 +4,7 @@ Gruppo: c18
 
 Componenti (nome, cognome e username GitHub di entrambi): Silvia Muscolino, username: silviamuscolino; Lavinia Palumbo, username: laviniapalumbo
 
-URL del repository condiviso:
+URL del repository condiviso: https://github.com/silviamuscolino/esercitazione-0-template.git
 
 Chi ha usato la tastiera nello step 1 e nello step 2: nello step 1 Silvia Muscolino, nello step 2 Lavinia Palumbo
 
